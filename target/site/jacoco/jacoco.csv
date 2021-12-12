@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Java_4_1,ru.netology.domain,Smartphone,79,24,16,4,3,8,14,4,6,2
+Java_4_1,ru.netology.domain,Book,79,24,16,4,3,8,14,4,6,2
+Java_4_1,ru.netology.domain,Product,118,24,18,2,4,5,19,4,10,3
+Java_4_1,ru.netology.repository,ProductRepository,0,117,0,10,0,25,0,10,0,5
+Java_4_1,ru.netology.manager,ProductManager,0,60,0,4,0,13,0,5,0,3
+Java_4_1,ru.netology.exception,NotFoundException,3,4,0,0,2,2,1,1,1,1

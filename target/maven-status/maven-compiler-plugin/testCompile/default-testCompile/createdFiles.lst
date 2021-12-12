@@ -1,0 +1,5 @@
+ru\netology\domain\BookTest.class
+ru\netology\domain\SmartphoneTest.class
+ru\netology\manager\ProductManagerTest.class
+ru\netology\domain\ProductTest.class
+ru\netology\repository\ProductRepositoryTest.class
